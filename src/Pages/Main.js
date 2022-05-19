@@ -16,7 +16,7 @@ export default function Main() {
                 handleClick('/service')
             }}>Click</button>
 
-            <h1>Currently we are in Main page</h1>
+            <h2>Currently we are in Main page</h2>
         </>
     )
 }
